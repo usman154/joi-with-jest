@@ -1,0 +1,25 @@
+{
+  "name": "joi-with-jest",
+  "version": "2.0.0",
+  "description": "To validate a JSON or Javascript object with Joi schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : "https://github.com/usman154/joi-with-jest",
+  "keywords": [
+    "joi-witj-jest",
+    "joi-jest",
+    "jest-with-joi",
+    "jest",
+    "with",
+    "joi",
+    "joi",
+    "with",
+    "jest",
+    "schema",
+    "validation"
+  ],
+  "author": "Muhammad Usman",
+  "license": "MIT"
+}
