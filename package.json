@@ -1,6 +1,6 @@
 {
   "name": "joi-with-jest",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "To validate a JSON or Javascript object with Joi schema",
   "main": "index.js",
   "scripts": {
